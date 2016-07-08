@@ -9,3 +9,5 @@ Feature2
 feature2
 More changes
 feature1
+More changes feature2
+More changes feature2
