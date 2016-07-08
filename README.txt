@@ -7,6 +7,7 @@ Git key auth
 test wersji
 Feature2
 dfdfdf
+cos
 Fixing bug*1234
 Another fix
 cos
