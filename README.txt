@@ -6,6 +6,7 @@ Sharing remotely is fan and easy
 Git key auth
 test wersji
 Feature2
+dfdfdf
 Fixing bug*1234
 Another fix
 cos
