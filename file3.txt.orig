@@ -1,0 +1,8 @@
+text for file3
+<<<<<<< HEAD
+adding yet more code
+Fix1
+
+=======
+Fix1
+>>>>>>> v1.0_fixes
